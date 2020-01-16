@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* ============
+    Format
+============ */
+
+header {
+  border-bottom: rgb(221, 219, 219) solid 0.5px;
+  width: 100%;
+  margin: 50px auto;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+}
+
+.reet-compose-form textarea {
+  border: none;
+}

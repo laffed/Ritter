@@ -1,0 +1,33 @@
+=================
+Frontend
+=================
+
+1. Create Reet form. 
+    -Reet button in header that pulls info from other form field
+    -tweet button media query (unclickable and diff color until chars are inputted into form field)
+    -back arrow button that takes user back to index.html
+    -form field stretch across page, get rid of text box corner symbol
+    -fonts and font size 
+
+
+
+
+
+
+
+
+================
+Backend
+================
+
+
+
+
+
+
+
+
+
+===============
+Database
+===============
